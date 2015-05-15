@@ -11,4 +11,11 @@ Use [Scrapy](http://scrapy.org/) to scrape deals info from [LivingSocial's Chica
 
 
 ### Result:
+
+PSQL db: 
+
+![postgres sql screenshot](https://github.com/yanniey/Scrapy_livingsocial_chicago/blob/master/PSQL%20screenshot.png?raw=true)
+
+Json output:
+
 ![Json output](https://github.com/yanniey/Scrapy_livingsocial_chicago/blob/master/output.png?raw=true)
