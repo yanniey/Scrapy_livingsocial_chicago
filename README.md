@@ -9,3 +9,6 @@ Use [Scrapy](http://scrapy.org/) to scrape deals info from [LivingSocial's Chica
 2. Set up Postgre database to store the parsed data
 3. Create a pipeline to connect parsed data and dtabase with [SQLAlchemy](http://www.sqlalchemy.org/) ORM
 
+
+### Result:
+![Json output](https://github.com/yanniey/Scrapy_livingsocial_chicago/blob/master/output.png?raw=true)
