@@ -51,3 +51,4 @@ class LivingSocialSpider(BaseSpider):
 			yield loader.load_item() 
 			# yield each other and move on to the next
 
+# output as json file: scrapy crawl livingsocial -o items.json
